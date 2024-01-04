@@ -3,3 +3,10 @@ Name: DimondPricePredicition
 Version: 0.0.1
 Author: AKM
 Author-email: adityamore49891@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: flask
+Requires-Dist: scikit-learn
+Requires-Dist: pickle

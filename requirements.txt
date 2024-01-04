@@ -3,5 +3,7 @@ numpy
 seaborn
 matplotlib
 flask
+scikit-learn
+
 
 
